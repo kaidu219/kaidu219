@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=abdurazzak1200)
+![](https://komarev.com/ghpvc/?username=kaidu219)
 
 ## I'm a BackEnd Developer
 - 💪 I like to write code
@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-  [<img align="left" alt="abdurazzak1200 | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin] [<img align="left" alt="Abdurazzak1200 | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-  [<img align="left" alt="abdurazzak1200 | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
+  [<img align="left" alt="kaidu | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" />][linkedin] [<img align="left" alt="kaidu | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
+  [<img align="left" alt="kaidu | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
 <br />
 
 ### Languages and Tools:
@@ -38,6 +38,6 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/abdurazzak-namatbekov-59951722b
-[instagram]: https://www.instagram.com/toloev01/
-[telegram]: https://www.t.me/toloev99/
+[linkedin]: https://www.linkedin.com/in/kaidu-berdikozhoev-945952261/
+[instagram]: https://www.instagram.com/kaidu._/
+[telegram]: https://www.t.me/kaidu123/
