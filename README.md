@@ -10,11 +10,10 @@
 - **DevOps**: Docker, CI/CD
 - **Инструменты автоматизации**: Celery
 - **Работа с API**: RESTful, WebSockets
-- **Контроль версий**: Git
 
 ## Контакты
 - **Telegram**: [@kaidu219](https://t.me/kaidu219)
 - **Email**: kaidu219@gmail.com
-- **LinkedIn**: [Ваш профиль](https://www.linkedin.com/in/kaidu219/)
+- **LinkedIn**: (https://www.linkedin.com/in/kaidu219/)
 
 Готов к новым профессиональным вызовам и сотрудничеству.
